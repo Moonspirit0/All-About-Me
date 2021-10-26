@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/12/46/04/124604e3dbfba8da3fa63e223a16e281.gif);
+    background-size: cover;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    text-shadow: 1px 1px pink;
+    box-shadow: 8px 8px 5px pink;
+    margin: 10px; 
+}
+
+h1 {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 55px; 
+    text-shadow: 2px 2px #ed7542;
+    color: #6e476b;
+}
+
+p{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 18px;  
+}
+
+i{
+    margin: 10px; 
+}
+
+h3{
+    font-size: 45px;
+    font-family: 'Nanum Brush Script', cursive;
+    text-shadow: 2px 1px #6e476b;
+    color: #ed7542;
+}
